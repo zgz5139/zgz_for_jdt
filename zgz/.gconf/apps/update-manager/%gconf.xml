@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="first_run" mtime="1451978518" type="bool" value="false"/>
+	<entry name="check_new_release_ignore" mtime="1451978515" type="string">
+		<stringvalue>trusty</stringvalue>
+	</entry>
+	<entry name="show_details" mtime="1451978510" type="bool" value="false"/>
+	<entry name="launch_time" mtime="1451978510" type="int" value="1451978510"/>
+</gconf>
